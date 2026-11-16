@@ -1,0 +1,13 @@
+gradio
+torch
+transformers
+accelerate
+bitsandbytes
+chromadb
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-classic
+sentence-transformers
